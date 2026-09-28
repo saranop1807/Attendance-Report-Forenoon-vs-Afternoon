@@ -1,0 +1,8 @@
+{
+  "name": "AttendTrack - FN/AN Attendance Analyzer & Word Doc Generator",
+  "description": "Track morning (FN) and evening (AN) attendance from Google Sheets, highlight absentees in red, detect session discrepancies, and export formatted reports directly to Word (.docx).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
